@@ -1,4 +1,4 @@
-# Private Equity KPIs & Analytics
+# Private Equity Financial & ESG Analytics
 
 ### [Tableau Demonstration](https://public.tableau.com/app/profile/dprateek/viz/PEAnalytics/Overview)
 
