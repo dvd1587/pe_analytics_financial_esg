@@ -1,0 +1,73 @@
+company_id,company_name,exit_multiple,ebitda_scenario,ebitda_label,exit_ebitda_mm,exit_valuation_mm,equity_value_mm,moic,irr_pct
+PC001,SolarEdge Systems,8.0,Low,-15%,87.0,696,244,2.87,24.5
+PC001,SolarEdge Systems,8.0,Base,Base,102.4,819,287,3.38,28.2
+PC001,SolarEdge Systems,8.0,High,+15%,117.8,942,330,3.88,31.6
+PC001,SolarEdge Systems,10.0,Low,-15%,87.0,870,305,3.59,28.8
+PC001,SolarEdge Systems,10.0,Base,Base,102.4,1024,358,4.21,32.1
+PC001,SolarEdge Systems,10.0,High,+15%,117.8,1178,412,4.85,35.2
+PC001,SolarEdge Systems,12.0,Low,-15%,87.0,1044,365,4.29,32.2
+PC001,SolarEdge Systems,12.0,Base,Base,102.4,1229,430,5.06,35.3
+PC001,SolarEdge Systems,12.0,High,+15%,117.8,1414,495,5.82,38.1
+PC002,WindFlow Energy,8.0,Low,-15%,59.2,474,133,1.85,13.1
+PC002,WindFlow Energy,8.0,Base,Base,69.6,557,156,2.17,16.8
+PC002,WindFlow Energy,8.0,High,+15%,80.0,640,179,2.49,20.0
+PC002,WindFlow Energy,10.0,Low,-15%,59.2,592,166,2.31,18.2
+PC002,WindFlow Energy,10.0,Base,Base,69.6,696,195,2.71,21.5
+PC002,WindFlow Energy,10.0,High,+15%,80.0,800,224,3.11,24.5
+PC002,WindFlow Energy,12.0,Low,-15%,59.2,710,199,2.76,21.9
+PC002,WindFlow Energy,12.0,Base,Base,69.6,835,234,3.25,25.0
+PC002,WindFlow Energy,12.0,High,+15%,80.0,960,269,3.74,27.8
+PC003,GreenBuild Materials,8.0,Low,-15%,48.9,391,164,1.73,11.6
+PC003,GreenBuild Materials,8.0,Base,Base,57.6,461,194,2.04,15.3
+PC003,GreenBuild Materials,8.0,High,+15%,66.2,530,223,2.35,18.6
+PC003,GreenBuild Materials,10.0,Low,-15%,48.9,489,205,2.16,16.6
+PC003,GreenBuild Materials,10.0,Base,Base,57.6,576,242,2.55,19.9
+PC003,GreenBuild Materials,10.0,High,+15%,66.2,662,278,2.93,22.9
+PC003,GreenBuild Materials,12.0,Low,-15%,48.9,587,246,2.59,20.4
+PC003,GreenBuild Materials,12.0,Base,Base,57.6,691,290,3.05,23.5
+PC003,GreenBuild Materials,12.0,High,+15%,66.2,794,334,3.52,26.4
+PC004,AquaPure Technologies,8.0,Low,-15%,50.5,404,154,2.26,17.7
+PC004,AquaPure Technologies,8.0,Base,Base,59.4,475,181,2.66,21.2
+PC004,AquaPure Technologies,8.0,High,+15%,68.3,546,208,3.06,24.3
+PC004,AquaPure Technologies,10.0,Low,-15%,50.5,505,192,2.82,22.4
+PC004,AquaPure Technologies,10.0,Base,Base,59.4,594,226,3.32,25.6
+PC004,AquaPure Technologies,10.0,High,+15%,68.3,683,260,3.82,28.5
+PC004,AquaPure Technologies,12.0,Low,-15%,50.5,606,230,3.38,26.0
+PC004,AquaPure Technologies,12.0,Base,Base,59.4,713,271,3.99,29.1
+PC004,AquaPure Technologies,12.0,High,+15%,68.3,820,312,4.59,31.9
+PC005,TerraFarm Ag,8.0,Low,-15%,29.9,239,108,1.38,6.9
+PC005,TerraFarm Ag,8.0,Base,Base,35.2,282,127,1.63,10.3
+PC005,TerraFarm Ag,8.0,High,+15%,40.5,324,146,1.87,13.3
+PC005,TerraFarm Ag,10.0,Low,-15%,29.9,299,135,1.73,11.5
+PC005,TerraFarm Ag,10.0,Base,Base,35.2,352,158,2.03,14.6
+PC005,TerraFarm Ag,10.0,High,+15%,40.5,405,182,2.33,17.4
+PC005,TerraFarm Ag,12.0,Low,-15%,29.9,359,162,2.08,15.0
+PC005,TerraFarm Ag,12.0,Base,Base,35.2,422,190,2.44,17.9
+PC005,TerraFarm Ag,12.0,High,+15%,40.5,486,219,2.81,20.6
+PC006,EV GridLink,8.0,Low,-15%,99.5,796,255,2.77,22.1
+PC006,EV GridLink,8.0,Base,Base,117.0,936,300,3.26,25.7
+PC006,EV GridLink,8.0,High,+15%,134.6,1077,345,3.75,28.9
+PC006,EV GridLink,10.0,Low,-15%,99.5,995,318,3.46,27.2
+PC006,EV GridLink,10.0,Base,Base,117.0,1170,374,4.07,30.5
+PC006,EV GridLink,10.0,High,+15%,134.6,1346,431,4.68,33.5
+PC006,EV GridLink,12.0,Low,-15%,99.5,1194,382,4.15,30.9
+PC006,EV GridLink,12.0,Base,Base,117.0,1404,449,4.88,34.0
+PC006,EV GridLink,12.0,High,+15%,134.6,1615,517,5.62,36.9
+PC007,CircularPack,8.0,Low,-15%,27.9,223,89,1.37,6.4
+PC007,CircularPack,8.0,Base,Base,32.8,262,105,1.62,9.7
+PC007,CircularPack,8.0,High,+15%,37.7,302,121,1.86,12.7
+PC007,CircularPack,10.0,Low,-15%,27.9,279,112,1.72,10.9
+PC007,CircularPack,10.0,Base,Base,32.8,328,131,2.02,14.0
+PC007,CircularPack,10.0,High,+15%,37.7,377,151,2.32,16.9
+PC007,CircularPack,12.0,Low,-15%,27.9,335,134,2.06,14.4
+PC007,CircularPack,12.0,Base,Base,32.8,394,158,2.43,17.3
+PC007,CircularPack,12.0,High,+15%,37.7,452,181,2.78,19.9
+PC008,BioEnergy Solutions,8.0,Low,-15%,24.5,196,71,1.09,1.8
+PC008,BioEnergy Solutions,8.0,Base,Base,28.8,230,83,1.28,5.0
+PC008,BioEnergy Solutions,8.0,High,+15%,33.1,265,95,1.46,8.0
+PC008,BioEnergy Solutions,10.0,Low,-15%,24.5,245,88,1.35,6.1
+PC008,BioEnergy Solutions,10.0,Base,Base,28.8,288,104,1.60,9.5
+PC008,BioEnergy Solutions,10.0,High,+15%,33.1,331,119,1.83,12.5
+PC008,BioEnergy Solutions,12.0,Low,-15%,24.5,294,106,1.63,9.8
+PC008,BioEnergy Solutions,12.0,Base,Base,28.8,346,125,1.92,12.9
+PC008,BioEnergy Solutions,12.0,High,+15%,33.1,397,143,2.20,15.7

@@ -1,0 +1,9 @@
+period,period_date,company_id,company_name,sector,investment_mm,cumulative_total_mm,pct_deployed
+Q2 2020,2020-06-15,PC001,SolarEdge Systems,Solar Energy,85,85,10.0
+Q3 2020,2020-09-22,PC002,WindFlow Energy,Wind Energy,72,157,18.5
+Q1 2021,2021-02-10,PC003,GreenBuild Materials,Green Buildings,95,252,29.6
+Q2 2021,2021-06-05,PC004,AquaPure Technologies,Water,68,320,37.6
+Q4 2021,2021-11-18,PC005,TerraFarm Ag,Sustainable Agriculture,78,398,46.8
+Q1 2022,2022-03-28,PC006,EV GridLink,Clean Transportation,92,490,57.6
+Q3 2022,2022-08-14,PC007,CircularPack,Circular Economy,65,555,65.3
+Q1 2023,2023-01-20,PC008,BioEnergy Solutions,Bioenergy,65,620,72.9

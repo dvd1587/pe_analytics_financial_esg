@@ -1,0 +1,33 @@
+company_id,company_name,year,segment,revenue_mm,revenue_pct
+PC001,SolarEdge Systems,2024,Utility PPA Revenue,245.8,68
+PC001,SolarEdge Systems,2024,Development Fees,54.2,15
+PC001,SolarEdge Systems,2024,O&M Services,43.4,12
+PC001,SolarEdge Systems,2024,Equipment Sales,18.1,5
+PC002,WindFlow Energy,2024,Utility PPA Revenue,198.5,70
+PC002,WindFlow Energy,2024,Development Fees,34.0,12
+PC002,WindFlow Energy,2024,O&M Services,31.2,11
+PC002,WindFlow Energy,2024,RECs & Tax Credits,19.8,7
+PC003,GreenBuild Materials,2024,CLT Panels,142.8,42
+PC003,GreenBuild Materials,2024,Recycled Steel Framing,105.0,31
+PC003,GreenBuild Materials,2024,Carbon-Negative Concrete,61.2,18
+PC003,GreenBuild Materials,2024,Installation Services,30.6,9
+PC004,AquaPure Technologies,2024,Equipment Sales,89.2,42
+PC004,AquaPure Technologies,2024,Service Contracts,72.1,34
+PC004,AquaPure Technologies,2024,Consumables,31.9,15
+PC004,AquaPure Technologies,2024,Engineering Services,19.1,9
+PC005,TerraFarm Ag,2024,Premium Crop Sales,107.8,48
+PC005,TerraFarm Ag,2024,Transition Services,56.1,25
+PC005,TerraFarm Ag,2024,Carbon Credits,33.6,15
+PC005,TerraFarm Ag,2024,Seed & Input Sales,26.9,12
+PC006,EV GridLink,2024,Charging Revenue,168.2,52
+PC006,EV GridLink,2024,Site Host Fees,71.1,22
+PC006,EV GridLink,2024,Network Services,51.9,16
+PC006,EV GridLink,2024,Advertising,32.3,10
+PC007,CircularPack,2024,E-commerce Packaging,92.5,45
+PC007,CircularPack,2024,Food Service Containers,61.7,30
+PC007,CircularPack,2024,Industrial Packaging,35.0,17
+PC007,CircularPack,2024,Custom Solutions,16.5,8
+PC008,BioEnergy Solutions,2024,RNG Sales,89.8,45
+PC008,BioEnergy Solutions,2024,Tipping Fees,59.9,30
+PC008,BioEnergy Solutions,2024,Digestate/Fertilizer,29.9,15
+PC008,BioEnergy Solutions,2024,Environmental Credits,19.9,10

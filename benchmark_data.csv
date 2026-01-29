@@ -1,0 +1,33 @@
+company_id,company_name,sector,metric,company_value,sector_median,sector_top_quartile,vs_median
+PC001,SolarEdge Systems,Solar Energy,Gross Margin %,32.5,28.0,35.0,4.5
+PC001,SolarEdge Systems,Solar Energy,EBITDA Margin %,16.7,14.2,18.5,2.5
+PC001,SolarEdge Systems,Solar Energy,Revenue Growth %,8.0,6.5,12.0,1.5
+PC001,SolarEdge Systems,Solar Energy,ROIC %,12.8,10.5,15.0,2.3
+PC002,WindFlow Energy,Wind Energy,Gross Margin %,34.2,32.0,38.0,2.2
+PC002,WindFlow Energy,Wind Energy,EBITDA Margin %,16.7,15.5,20.0,1.2
+PC002,WindFlow Energy,Wind Energy,Revenue Growth %,6.0,5.0,9.0,1.0
+PC002,WindFlow Energy,Wind Energy,ROIC %,11.5,9.8,13.5,1.7
+PC003,GreenBuild Materials,Green Buildings,Gross Margin %,28.5,25.0,32.0,3.5
+PC003,GreenBuild Materials,Green Buildings,EBITDA Margin %,16.7,12.5,17.0,4.2
+PC003,GreenBuild Materials,Green Buildings,Revenue Growth %,7.0,5.5,10.0,1.5
+PC003,GreenBuild Materials,Green Buildings,ROIC %,10.2,8.0,12.0,2.2
+PC004,AquaPure Technologies,Water,Gross Margin %,42.0,38.0,45.0,4.0
+PC004,AquaPure Technologies,Water,EBITDA Margin %,16.7,14.0,19.0,2.7
+PC004,AquaPure Technologies,Water,Revenue Growth %,9.0,6.0,11.0,3.0
+PC004,AquaPure Technologies,Water,ROIC %,14.5,11.0,16.0,3.5
+PC005,TerraFarm Ag,Sustainable Agriculture,Gross Margin %,24.0,20.0,28.0,4.0
+PC005,TerraFarm Ag,Sustainable Agriculture,EBITDA Margin %,15.0,11.0,16.0,4.0
+PC005,TerraFarm Ag,Sustainable Agriculture,Revenue Growth %,5.0,4.0,7.0,1.0
+PC005,TerraFarm Ag,Sustainable Agriculture,ROIC %,8.5,6.5,10.0,2.0
+PC006,EV GridLink,Clean Transportation,Gross Margin %,38.5,32.0,42.0,6.5
+PC006,EV GridLink,Clean Transportation,EBITDA Margin %,16.7,12.0,18.0,4.7
+PC006,EV GridLink,Clean Transportation,Revenue Growth %,12.0,15.0,25.0,-3.0
+PC006,EV GridLink,Clean Transportation,ROIC %,9.8,7.0,12.0,2.8
+PC007,CircularPack,Circular Economy,Gross Margin %,35.0,30.0,38.0,5.0
+PC007,CircularPack,Circular Economy,EBITDA Margin %,16.0,13.0,17.5,3.0
+PC007,CircularPack,Circular Economy,Revenue Growth %,10.0,8.0,14.0,2.0
+PC007,CircularPack,Circular Economy,ROIC %,11.2,9.0,13.0,2.2
+PC008,BioEnergy Solutions,Bioenergy,Gross Margin %,30.0,26.0,33.0,4.0
+PC008,BioEnergy Solutions,Bioenergy,EBITDA Margin %,15.0,12.0,16.5,3.0
+PC008,BioEnergy Solutions,Bioenergy,Revenue Growth %,8.0,6.0,10.0,2.0
+PC008,BioEnergy Solutions,Bioenergy,ROIC %,9.0,7.5,11.0,1.5

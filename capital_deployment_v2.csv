@@ -1,0 +1,73 @@
+period_date,company_name,sector,investment_order,investment_mm,cumulative_company_mm,cumulative_total_mm
+2020-06-30,SolarEdge Systems,Solar Energy,1,85,85,85
+2020-06-30,WindFlow Energy,Wind Energy,2,0,0,85
+2020-06-30,GreenBuild Materials,Green Buildings,3,0,0,85
+2020-06-30,AquaPure Technologies,Water,4,0,0,85
+2020-06-30,TerraFarm Ag,Sustainable Agriculture,5,0,0,85
+2020-06-30,EV GridLink,Clean Transportation,6,0,0,85
+2020-06-30,CircularPack,Circular Economy,7,0,0,85
+2020-06-30,BioEnergy Solutions,Bioenergy,8,0,0,85
+2020-09-30,SolarEdge Systems,Solar Energy,1,85,85,157
+2020-09-30,WindFlow Energy,Wind Energy,2,72,72,157
+2020-09-30,GreenBuild Materials,Green Buildings,3,0,0,157
+2020-09-30,AquaPure Technologies,Water,4,0,0,157
+2020-09-30,TerraFarm Ag,Sustainable Agriculture,5,0,0,157
+2020-09-30,EV GridLink,Clean Transportation,6,0,0,157
+2020-09-30,CircularPack,Circular Economy,7,0,0,157
+2020-09-30,BioEnergy Solutions,Bioenergy,8,0,0,157
+2021-03-31,SolarEdge Systems,Solar Energy,1,85,85,252
+2021-03-31,WindFlow Energy,Wind Energy,2,72,72,252
+2021-03-31,GreenBuild Materials,Green Buildings,3,95,95,252
+2021-03-31,AquaPure Technologies,Water,4,0,0,252
+2021-03-31,TerraFarm Ag,Sustainable Agriculture,5,0,0,252
+2021-03-31,EV GridLink,Clean Transportation,6,0,0,252
+2021-03-31,CircularPack,Circular Economy,7,0,0,252
+2021-03-31,BioEnergy Solutions,Bioenergy,8,0,0,252
+2021-06-30,SolarEdge Systems,Solar Energy,1,85,85,320
+2021-06-30,WindFlow Energy,Wind Energy,2,72,72,320
+2021-06-30,GreenBuild Materials,Green Buildings,3,95,95,320
+2021-06-30,AquaPure Technologies,Water,4,68,68,320
+2021-06-30,TerraFarm Ag,Sustainable Agriculture,5,0,0,320
+2021-06-30,EV GridLink,Clean Transportation,6,0,0,320
+2021-06-30,CircularPack,Circular Economy,7,0,0,320
+2021-06-30,BioEnergy Solutions,Bioenergy,8,0,0,320
+2021-12-31,SolarEdge Systems,Solar Energy,1,85,85,398
+2021-12-31,WindFlow Energy,Wind Energy,2,72,72,398
+2021-12-31,GreenBuild Materials,Green Buildings,3,95,95,398
+2021-12-31,AquaPure Technologies,Water,4,68,68,398
+2021-12-31,TerraFarm Ag,Sustainable Agriculture,5,78,78,398
+2021-12-31,EV GridLink,Clean Transportation,6,0,0,398
+2021-12-31,CircularPack,Circular Economy,7,0,0,398
+2021-12-31,BioEnergy Solutions,Bioenergy,8,0,0,398
+2022-03-31,SolarEdge Systems,Solar Energy,1,85,85,490
+2022-03-31,WindFlow Energy,Wind Energy,2,72,72,490
+2022-03-31,GreenBuild Materials,Green Buildings,3,95,95,490
+2022-03-31,AquaPure Technologies,Water,4,68,68,490
+2022-03-31,TerraFarm Ag,Sustainable Agriculture,5,78,78,490
+2022-03-31,EV GridLink,Clean Transportation,6,92,92,490
+2022-03-31,CircularPack,Circular Economy,7,0,0,490
+2022-03-31,BioEnergy Solutions,Bioenergy,8,0,0,490
+2022-09-30,SolarEdge Systems,Solar Energy,1,85,85,555
+2022-09-30,WindFlow Energy,Wind Energy,2,72,72,555
+2022-09-30,GreenBuild Materials,Green Buildings,3,95,95,555
+2022-09-30,AquaPure Technologies,Water,4,68,68,555
+2022-09-30,TerraFarm Ag,Sustainable Agriculture,5,78,78,555
+2022-09-30,EV GridLink,Clean Transportation,6,92,92,555
+2022-09-30,CircularPack,Circular Economy,7,65,65,555
+2022-09-30,BioEnergy Solutions,Bioenergy,8,0,0,555
+2023-03-31,SolarEdge Systems,Solar Energy,1,85,85,620
+2023-03-31,WindFlow Energy,Wind Energy,2,72,72,620
+2023-03-31,GreenBuild Materials,Green Buildings,3,95,95,620
+2023-03-31,AquaPure Technologies,Water,4,68,68,620
+2023-03-31,TerraFarm Ag,Sustainable Agriculture,5,78,78,620
+2023-03-31,EV GridLink,Clean Transportation,6,92,92,620
+2023-03-31,CircularPack,Circular Economy,7,65,65,620
+2023-03-31,BioEnergy Solutions,Bioenergy,8,65,65,620
+2024-12-31,SolarEdge Systems,Solar Energy,1,85,85,620
+2024-12-31,WindFlow Energy,Wind Energy,2,72,72,620
+2024-12-31,GreenBuild Materials,Green Buildings,3,95,95,620
+2024-12-31,AquaPure Technologies,Water,4,68,68,620
+2024-12-31,TerraFarm Ag,Sustainable Agriculture,5,78,78,620
+2024-12-31,EV GridLink,Clean Transportation,6,92,92,620
+2024-12-31,CircularPack,Circular Economy,7,65,65,620
+2024-12-31,BioEnergy Solutions,Bioenergy,8,65,65,620

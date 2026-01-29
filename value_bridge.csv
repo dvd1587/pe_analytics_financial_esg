@@ -1,0 +1,7 @@
+component_order,component,component_type,value_mm,cumulative_mm,display_label
+1,Initial Investment,Start,620,620,$620M Invested
+2,Revenue Growth,Value Driver,152,772,+$152M Revenue Growth
+3,Margin Expansion,Value Driver,86,858,+$86M Margin Improvement
+4,Multiple Expansion,Value Driver,72,930,+$72M Multiple Expansion
+5,Debt Paydown,Value Driver,16,946,+$16M Debt Reduction
+6,Current NAV,End,946,946,$946M Current NAV
