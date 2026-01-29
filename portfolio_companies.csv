@@ -1,9 +1,0 @@
-company_id,company_name,sector,sub_sector,hq_location,investment_date,ownership_pct,investment_mm,current_valuation_mm,employees,status
-PC001,SolarEdge Systems,Solar Energy,Utility-Scale Solar,"Austin, TX",2020-06-15,35,85,165,280,Active
-PC002,WindFlow Energy,Wind Energy,Onshore Wind,"Denver, CO",2020-09-22,28,72,118,195,Active
-PC003,GreenBuild Materials,Green Buildings,Sustainable Construction,"Portland, OR",2021-02-10,42,95,142,340,Active
-PC004,AquaPure Technologies,Water,Water Treatment,"Phoenix, AZ",2021-06-05,38,68,105,150,Active
-PC005,TerraFarm Ag,Sustainable Agriculture,Regenerative Farming,"Des Moines, IA",2021-11-18,45,78,112,420,Active
-PC006,EV GridLink,Clean Transportation,EV Charging Infrastructure,"San Jose, CA",2022-03-28,32,92,138,210,Active
-PC007,CircularPack,Circular Economy,Sustainable Packaging,"Chicago, IL",2022-08-14,40,65,88,175,Active
-PC008,BioEnergy Solutions,Bioenergy,Waste-to-Energy,"Atlanta, GA",2023-01-20,36,65,78,145,Active
